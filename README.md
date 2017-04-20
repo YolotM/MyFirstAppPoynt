@@ -17,4 +17,7 @@ The sample uses gradle wrapper to build. Just use the gradlew commands to build 
 project in Android Studio and run it directly from there.
 
     ./gradlew assembleDebug
+    
+    
+    ONLY IT'S AN EXAMPLE FOR MY FIRST WEBHOOK
 
