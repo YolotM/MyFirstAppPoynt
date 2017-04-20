@@ -52,6 +52,8 @@ import co.poynt.os.services.v1.IPoyntSessionServiceListener;
  * the PoyntBusinessService.
  */
 public class SampleActivity extends Activity {
+    
+    /*Hola mundo*/
 
     private static final int AUTHORIZATION_CODE = 1993;
     // request code for payment service activity
